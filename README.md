@@ -41,3 +41,9 @@ After translation, these segments should be reassembled into the original HTML s
 ## 🌟 Ready to Begin?
 
 You're all set to tackle the SUMM AI Backend Coding Challenge! Build a robust API that fulfills these requirements and showcases your coding skills. Happy coding! 🚀👨‍💻👩‍💻
+
+## Submission
+Please clone this repository and upload it to a new private repo.
+Implement a well-organized codebase along with a README documenting the setup, key findings, and challenges.  
+Add me (@flowni) to the repo for submitting it.
+You have one week to complete the assignment. ⏰
